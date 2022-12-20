@@ -506,7 +506,7 @@
                 <br/> 
                 <b>논고 </b>및 도면: 최장순(강원대 건축학과 교수) <br/> 
                 <b>사진:</b> 문덕관 <br/> 
-                <b>제작:</b> SD&amp;T (대표: 전현성, 총괄: 김범준, 장성경, 한유정) <br/></p></div></div>`,f(t,"class","article-container fullscreen")},m(s,n){g(s,t,n)},p:de,i:de,o:de,d(s){s&&m(t)}}}function _f(e){return Kt(()=>{document.querySelectorAll("section").forEach((s,n)=>{s.setAttribute("data-aos","fade-up")}),ns.init({duration:1e3,once:!1}),window.scrollTo(0,0)}),[]}class Cf extends ut{constructor(t){super(),ft(this,t,_f,bf,Ue,{})}}function Tf(e){let t,s,n,i,l;return{c(){t=u("div"),t.innerHTML=`<video id="poster-back" src="./poster/poster_back.mp4" autoplay="" muted="" playsinline="" loop=""></video> 
+                <b>제작:</b> SD&amp;T (대표: 전현성, 총괄: 김범준, 실무: 장성경, 한유정) <br/></p></div></div>`,f(t,"class","article-container fullscreen")},m(s,n){g(s,t,n)},p:de,i:de,o:de,d(s){s&&m(t)}}}function _f(e){return Kt(()=>{document.querySelectorAll("section").forEach((s,n)=>{s.setAttribute("data-aos","fade-up")}),ns.init({duration:1e3,once:!1}),window.scrollTo(0,0)}),[]}class Cf extends ut{constructor(t){super(),ft(this,t,_f,bf,Ue,{})}}function Tf(e){let t,s,n,i,l;return{c(){t=u("div"),t.innerHTML=`<video id="poster-back" src="./poster/poster_back.mp4" autoplay="" muted="" playsinline="" loop=""></video> 
     <video id="poster-front" src="./poster/poster_front_02.mp4" autoplay="" muted="" playsinline="" loop=""></video>`,s=w(),n=u("section"),n.innerHTML=`<div class="article article-text g-0" style="gap:0"><div><h2 class="article-header text-center mb-3">전시개요</h2> 
             <h3 class="article-title text-center mb-0">삼척 맹방리 상엿집</h3></div> 
         <br/> 
